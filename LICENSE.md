@@ -10,8 +10,35 @@ It was not created with permission.
 
 This mod is not an official console filter.
 
-###License notation based on "Attribution-NonCommercial-ShareAlike 4.0 International"
+>License view for this mod (if you use it, please also include the original "console filter")
+> 
+> ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+>
+> https://github.com/FrixionCoffee/ConsoleFilterTransplantUnofficial
+>
+> Name: ConsoleFilterTransplantUnofficial
+>
+> Contributors: FrixionCoffee
+>
+> Repository Owner: FrixionCoffee
+>
+> Announcement date: Aug 14, 2021
+>
+> Aug 14, 2021 - None
+> 
+>  ### URL
+>
+> LICENSE.md URL: https://github.com/FrixionCoffee/ConsoleFilterTransplantUnofficial/blob/main/LICENSE.md
+>
+> This URL is a human-readable summary of (and not a substitute for) the license.
+> For the license, refer to "legal code" of Creative Commons license.
+>
+> https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+>
+> legalcode URL: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+>
 
+###License notation based on "Attribution-NonCommercial-ShareAlike 4.0 International"
 
 > ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 > 
@@ -32,7 +59,7 @@ This mod is not an official console filter.
 > 
 > ### URL
 > 
-> License.md URL: https://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md
+> LICENSE.md URL: https://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md
 > 
 > This URL is a human-readable summary of (and not a substitute for) the license.
 > For the license, refer to "legal code" of Creative Commons license.

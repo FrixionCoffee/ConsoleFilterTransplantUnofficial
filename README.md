@@ -39,7 +39,7 @@ This mod is not an official console filter.
 > 
 > ### URL
 > 
-> License.md URL: https://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md
+> LICENSE.md URL: https://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md
 > 
 > This URL is a human-readable summary of (and not a substitute for) the license.
 > For the license, refer to "legal code" of Creative Commons license.
