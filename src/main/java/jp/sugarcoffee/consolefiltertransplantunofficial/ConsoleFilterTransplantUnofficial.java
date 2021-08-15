@@ -6,9 +6,7 @@ import jp.sugarcoffee.consolefiltertransplantunofficial.filter.FilterNone;
 import jp.sugarcoffee.consolefiltertransplantunofficial.filter.JavaFilter;
 import jp.sugarcoffee.consolefiltertransplantunofficial.filter.Log4jFilter;
 import jp.sugarcoffee.consolefiltertransplantunofficial.filter.SystemFilter;
-import net.minecraft.block.Block;
 import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
@@ -74,12 +72,5 @@ public class ConsoleFilterTransplantUnofficial {
         JavaFilter.applyFilter();
         Log4jFilter.applyFilter();
         SystemFilter.applyFilter();
-    }
-
-    @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
-    public static class RegistryEvents {
-        @SubscribeEvent
-        public static void onBlocksRegistry(final RegistryEvent.Register<Block> blockRegistryEvent) {
-        }
     }
 }
