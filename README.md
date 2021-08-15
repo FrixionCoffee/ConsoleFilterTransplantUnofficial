@@ -18,7 +18,7 @@ It was not created with permission.
 This mod is not an official console filter.
 
 ###License notation based on "Attribution-NonCommercial-ShareAlike 4.0 International"
-
+<p></p>
 
 > ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 > 
@@ -40,11 +40,10 @@ This mod is not an official console filter.
 > ### URL
 > 
 > LICENSE.md URL: https://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md
-> 
-> This URL is a human-readable summary of (and not a substitute for) the license.
-> For the license, refer to "legal code" of Creative Commons license.
-> 
-> https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+>
+> - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+>   - This URL(...by-nc-sa/4.0/deed.en) is a human-readable summary of (and not a substitute for) the license.For the license, refer to "legal code" of Creative Commons license.
+>
 > 
 > legalcode URL: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 >
