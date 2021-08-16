@@ -21,31 +21,29 @@ This mod is not an official console filter.
 <p></p>
 
 > ### Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-> 
-> 
+>
+>
 > https://github.com/MattCzyr/ConsoleFilter
 >
 > Name: ConsoleFilter
-> 
-> Contributors: Matt Czyr, mmelvin0, ChaosTheDude
-> 
-> Repository Owner: Matt Czyr
-> 
-> Announcement date: Oct 9, 2016
-> 
-> Oct 9, 2016 - 13 Mar 2018
-> 
-> (The date is predicted from the commit history of the repository and may differ from the actual date.)
-> 
-> ### URL
-> 
-> <s>~~LICENSE.md URL: ttps://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md~~</s>
 >
-> Urgent: The official console filter license seems to be mislabeled in CC BY, so please refer to the legal code!
+> Contributors: Matt Czyr, mmelvin0, ChaosTheDude
+>
+> Repository Owner: Matt Czyr
+>
+> Announcement date: Oct 9, 2016
+>
+> Oct 9, 2016 - 13 Mar 2018
+>
+> (The date is predicted from the commit history of the repository and may differ from the actual date.)
+>
+> ### URL
+>
+> LICENSE.md URL: https://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md
 >
 > - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
->   - This URL(...by-nc-sa/4.0/deed.en) is a human-readable summary of (and not a substitute for) the license.For the license, refer to "legal code" of Creative Commons license.
+    >   - This URL(...by-nc-sa/4.0/deed.en) is a human-readable summary of (and not a substitute for) the license.For the license, refer to "legal code" of Creative Commons license.
 >
-> 
+>
 > legalcode URL: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 >
