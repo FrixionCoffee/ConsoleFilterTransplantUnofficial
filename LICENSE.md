@@ -58,9 +58,7 @@ This mod is not an official console filter.
 > 
 > ### URL
 >
-> <s>~~LICENSE.md URL: ttps://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md~~</s>
->
-> Urgent: The official console filter license seems to be mislabeled in CC BY, so please refer to the legal code!
+> LICENSE.md URL: ttps://github.com/MattCzyr/ConsoleFilter/blob/master/LICENSE.md
 >
 > - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 >   - This URL(...by-nc-sa/4.0/deed.en) is a human-readable summary of (and not a substitute for) the license.For the license, refer to "legal code" of Creative Commons license.
