@@ -32,4 +32,5 @@ public class SystemFilter extends PrintStream {
 		System.setOut(new SystemFilter(System.out));
 	}
 
+
 }
