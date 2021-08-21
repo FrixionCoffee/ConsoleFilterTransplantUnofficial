@@ -2,8 +2,9 @@
 This is a mod for the game "Minecraft".
 An informal transplant of "Console Filter"
 
-Now it available 1.14.4.
-I plan to create 1.16.4 version as well.
+Now it available 1.14.4 and 1.16.4.
+
+<s>~~I plan to create 1.16.4 version as well.~~</s>
 
 # License preamble
 This mod is provided under "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International".
