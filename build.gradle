@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '0.9beta'
+version = '0.91beta'
 group = 'jp.sugarcoffee' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'console_filter_transplant_unofficial_ver1.14.4'
 
