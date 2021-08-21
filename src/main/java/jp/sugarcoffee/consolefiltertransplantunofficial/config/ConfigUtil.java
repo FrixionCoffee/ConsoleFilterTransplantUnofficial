@@ -1,6 +1,7 @@
 package jp.sugarcoffee.consolefiltertransplantunofficial.config;
 
 import jp.sugarcoffee.consolefiltertransplantunofficial.ConsoleFilterTransplantUnofficial;
+import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -109,8 +110,14 @@ public class ConfigUtil {
             }
 
             return allLines.stream()
-                    .filter(s -> !s.matches("^#.*") && !s.isEmpty())
+                    .filter(StringUtils::isNotBlank)
+                    .filter(s -> !s.matches("^#.*"))
+                    .filter(this::isNotContainSecurityWord)
                     .collect(Collectors.toList());
+        }
+
+        public boolean isNotContainSecurityWord(String s) {
+            return !s.contains("java.security") && !s.contains("SecurityException");
         }
 
     }
