@@ -113,11 +113,17 @@ public class ConfigUtil {
                     .filter(StringUtils::isNotBlank)
                     .filter(s -> !s.matches("^#.*"))
                     .filter(this::isNotContainSecurityWord)
+                    .filter(this::isNotContainJndiLookupWord)
+
                     .collect(Collectors.toList());
         }
 
         public boolean isNotContainSecurityWord(String s) {
             return !s.contains("java.security") && !s.contains("SecurityException");
+        }
+
+        private boolean isNotContainJndiLookupWord(String s) {
+            return !s.contains("${jndi:");
         }
 
     }
