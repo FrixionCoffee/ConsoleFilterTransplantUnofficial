@@ -4,7 +4,6 @@ import jp.sugarcoffee.consolefiltertransplantunofficial.ConsoleFilterTransplantU
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.InterModProcessEvent;
 import org.apache.logging.log4j.Logger;
-import org.apache.logging.log4j.core.Filter;
 
 import java.util.List;
 import java.util.Objects;
