@@ -113,14 +113,21 @@ public class ConfigUtil {
             return allLines.stream()
                     .filter(StringUtils::isNotBlank)
                     .filter(s -> !s.matches("^#.*"))
-                    .filter(this::isNotContainSecurityWord)
+                    .filter(this::isNotContainSecurityPackage)
+                    .filter(this::isNotContainWornExceptions)
                     .filter(this::isNotContainJndiLookupWord)
 
                     .collect(Collectors.toList());
         }
 
-        public boolean isNotContainSecurityWord(String s) {
-            return !s.contains("java.security") && !s.contains("SecurityException");
+        private boolean isNotContainSecurityPackage(String s) {
+            return !s.contains("java.security");
+        }
+
+        private boolean isNotContainWornExceptions(String s) {
+            return !s.contains("SecurityException") &&
+                    !s.contains("AccessDeniedException") &&
+                    !s.contains("AccessControlException");
         }
 
         private boolean isNotContainJndiLookupWord(String s) {
